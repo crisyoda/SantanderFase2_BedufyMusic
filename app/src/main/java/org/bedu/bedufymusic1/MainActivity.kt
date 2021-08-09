@@ -9,7 +9,7 @@ import android.widget.EditText
 import android.widget.TextView
 import android.widget.Toast
 
-const val USER_NAME = "org.bedu.bedufymusic1.USER_NAME"
+//const val USER_NAME = "org.bedu.bedufymusic1.USER_NAME"
 
 class MainActivity : AppCompatActivity() {
     private lateinit var btnEntrar: Button
