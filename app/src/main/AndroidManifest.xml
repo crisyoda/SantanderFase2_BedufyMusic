@@ -10,8 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BedufyMusic1">
         <activity android:name=".Registro"></activity>
-        <activity android:name=".formularioRegistro" />
-        <activity android:name=".login" />
+        <activity android:name=".activity_lista" />
+        <activity android:name=".RecyclerAdapter" />
+        <activity android:name=".Song" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

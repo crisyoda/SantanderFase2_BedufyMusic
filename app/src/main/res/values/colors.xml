@@ -13,4 +13,5 @@
     <color name="fondo_boton_2">#F3D5E5</color>
     <color name="aqua">#00FFF6</color>
     <color name="colorAccent">#636363</color>
+    <color name="grey">#FFE4ECEB</color>
 </resources>
