@@ -12,6 +12,6 @@ El código que se agrega a este git contiene las funcionalidades de:
 - Login
 - Validación de campos
 - Registro de usuarios
-- Lista de camciones
+- Lista de canciones
 
 ![Captura de pantalla](https://github.com/crisyoda/Santanderdmovilfase2equipo12/blob/main/Screenshot_20210729-215634_2%20(1).png)
