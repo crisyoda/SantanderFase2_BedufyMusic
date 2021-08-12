@@ -31,3 +31,7 @@ Módulo 2 LISTA DE CANCIONES: Después de ingresar las credenciasles, al dar cli
 
 Pantallas de la 1ra entrega del 29/07/2021
 ![Captura de pantalla](https://github.com/crisyoda/Santanderdmovilfase2equipo12/blob/main/Screenshot_20210729-215634_2%20(1).png)
+
+A continuacon se muestra un reproductor sencillo realizado en otro repositorio ya que no se dio tiempo a desarrollar a la par. 
+![Captura de pantalla](https://github.com/crisyoda/Music-App-master/blob/master/rp.png)
+Clik para el repositorio de reproduccion de musica (https://github.com/crisyoda/Music-App-master)
