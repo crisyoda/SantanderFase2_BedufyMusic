@@ -34,3 +34,5 @@ Pantallas de la 1ra entrega del 29/07/2021
 
 A continuacon se muestra un reproductor sencillo realizado en otro repositorio ya que no se dio tiempo a desarrollar a la par. 
 ![Captura de pantalla](https://github.com/crisyoda/Music-App-master/blob/master/rp.png)
+
+CLICK Repositorio---►(https://github.com/crisyoda/Music-App-master)
